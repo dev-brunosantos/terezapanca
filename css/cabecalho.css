@@ -40,7 +40,7 @@
 }
 .abrirMenu {
     transition: 0.3s;
-    height: 30vh;
+    height: 60vh;
     opacity: 1;
 }
 .menu-item {

@@ -1,6 +1,7 @@
 /* IMPORTANDO CSS EXTERNO */
 @import url("../css/cabecalho.css");
 @import url("../css/conteudos.css");
+
 /* VARIÁVIES CSS DO PROJETO */
 :root {
     --cor-de-texto: green;
@@ -12,5 +13,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
 }
 
